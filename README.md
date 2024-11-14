@@ -1,1 +1,1 @@
-# finger-spelling-detection
+# Korean finger-spelling-detection
